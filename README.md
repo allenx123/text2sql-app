@@ -1,2 +1,2 @@
 # text2sql-app
-Generative AI application that enables users to talk to their analytical database
+Generative AI application that enables AI agents to use specialized Small Language Model (SLM) for text-to-sql tasks
