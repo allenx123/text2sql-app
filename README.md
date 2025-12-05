@@ -1,2 +1,2 @@
 # text2sql agent
-A lightweight text2sql AI agent
+A lightweight cost-effective text2sql AI agent
